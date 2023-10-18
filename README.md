@@ -52,10 +52,11 @@ Both models were trained with the same 3 datasets: hand x-rays, breast MRI, abdo
 In this project I used Inception Score and Frechet Inception Distance to test which one is more suitable for this kind of data.
 ### Inception Score
 ![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/a5f93016-e999-4d61-b160-93a5aacacf15)  
-The lower IS is 
+The lower IS is the better quality of images and dataset diversity is.
 
 ### Frechet Inception Distance
 ![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/33f1d33d-3f35-4e59-af41-00c9b1c8793d)
+The higher FID is the better quality of images and dataset diversity is.  
 
 ## Calculation results
 ### IS
