@@ -48,3 +48,19 @@ Both models were trained with the same 3 datasets: hand x-rays, breast MRI, abdo
   Fig. 6. Hand x-ray images generated using Simple GAN model from Monai tutorial
 </p>  
 
+## Quantitive methods of assesing the quality of images 
+In this project I used Inception Score and Frechet Inception Distance to test which one is more suitable for this kind of data
+### Inception Score
+![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/a5f93016-e999-4d61-b160-93a5aacacf15)  
+
+### Frechet Inception Distance
+![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/33f1d33d-3f35-4e59-af41-00c9b1c8793d)
+
+## Calculation results
+### IS
+![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/51196bef-b7f1-4b5c-9018-5f9569b533fc)  
+### FID  
+![image](https://github.com/KarolinaMakuchIB/GAN_MED/assets/64591108/ce984cde-412b-4dbb-82ed-931e4ebe8886)
+
+
+
